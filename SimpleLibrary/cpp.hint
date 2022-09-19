@@ -1,0 +1,2 @@
+#define SIMPLELIBRARY_API __declspec(dllexport)
+#define SIMPLELIBRARY_API __declspec(dllimport)
